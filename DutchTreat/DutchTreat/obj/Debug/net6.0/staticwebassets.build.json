@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KUolGzPQKSMHqimDz7oqh2AENpLtZ9SSL1lU0V0JFN8=",
+  "Source": "DutchTreat",
+  "BasePath": "_content/DutchTreat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DutchTreat\\wwwroot",
+      "Source": "DutchTreat",
+      "ContentRoot": "Z:\\Git\\DutchTreat\\DutchTreat\\wwwroot\\",
+      "BasePath": "_content/DutchTreat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Z:\\Git\\DutchTreat\\DutchTreat\\wwwroot\\index.html",
+      "SourceId": "DutchTreat",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Git\\DutchTreat\\DutchTreat\\wwwroot\\",
+      "BasePath": "_content/DutchTreat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
