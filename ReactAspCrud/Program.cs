@@ -12,6 +12,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<StudentDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("StudentDbContext")));
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -21,6 +22,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(options => options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
 
 app.UseHttpsRedirection();
 
