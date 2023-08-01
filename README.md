@@ -5,3 +5,5 @@
 	and app.UseCors(options => options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200")); in Program.cs file 
 	
 ->Added "id": this.currentStudentId in UpdateRecords() method as it was sending 0 in http request causing 500 error.
+
+.

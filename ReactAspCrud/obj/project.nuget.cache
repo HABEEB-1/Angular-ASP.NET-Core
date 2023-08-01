@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NnFt4E5zr7EhyX00OGz0iAf6xL67TMafHRAlahiQCSfI9q573TS5Uhtor8BRP2Fc8u9V0f4m1suCrqf17tbRIQ==",
+  "dgSpecHash": "CjKMwSO+ojQadNmbBLIq4Q3MglIU+CpiUUc95+TAvMzYy9x9tLF2odpij0Ip46wALQdWiAcnnvxGixefZDX7hQ==",
   "success": true,
-  "projectFilePath": "D:\\Master Notes\\HABEEB-1\\ReactAspCrud\\ReactAspCrud.csproj",
+  "projectFilePath": "D:\\Master Notes\\HABEEB-1\\New folder\\ReactAspCrud\\ReactAspCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdhabeeb.rehman\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mdhabeeb.rehman\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -80,12 +80,5 @@
     "C:\\Users\\mdhabeeb.rehman\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\mdhabeeb.rehman\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://vnuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

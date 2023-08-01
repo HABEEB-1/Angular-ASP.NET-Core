@@ -86,3 +86,13 @@ D:\Master Notes\HABEEB-1\ReactAspCrud\obj\Debug\net6.0\refint\ReactAspCrud.dll
 D:\Master Notes\HABEEB-1\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.pdb
 D:\Master Notes\HABEEB-1\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.genruntimeconfig.cache
 D:\Master Notes\HABEEB-1\ReactAspCrud\obj\Debug\net6.0\ref\ReactAspCrud.dll
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.csproj.AssemblyReference.cache
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.AssemblyInfoInputs.cache
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.AssemblyInfo.cs
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.csproj.CoreCompileInputs.cache
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.MvcApplicationPartsAssemblyInfo.cs
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.dll
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ref\ReactAspCrud.dll
+D:\Master Notes\HABEEB-1\New folder\ReactAspCrud\obj\Debug\net6.0\ReactAspCrud.pdb
